@@ -2,6 +2,6 @@ class FirstProgram
 {
     public static void main(String[]args)
     {
-        System.out.println("Hola Amigos");
+        System.out.println("Hello World");
     }
 }

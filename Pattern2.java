@@ -1,3 +1,8 @@
+/* This is the Pattern:
+A
+AB
+ABC */ 
+
 public class Pattern2 {
     
 

@@ -1,3 +1,10 @@
+/* This is the pattern:
+1
+12
+123
+1234
+12345
+123456 */
 class Pattern1  {
           public static void main(String[] args) {
         for(int i = 1; i <= 6; ++i) {
