@@ -17,7 +17,7 @@ class perform
     {
      Calc obj= new Calc();
      obj.num1=5;
-     obj.num2=3;
+     obj.num2=7;
      obj.add();
      System.out.println(obj.result);
      obj.subtract();
